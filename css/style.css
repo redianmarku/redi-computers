@@ -1,0 +1,149 @@
+body{
+	
+	margin: 3px;
+  background-image: url('../img/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+ 
+ }
+.bg-light_redi{
+	background-color:#bdbdbd6b;
+}
+#menu_background{
+  background-color: #bfbfbf;
+	
+}
+hr{
+	background-color: grey;
+	height: 2px;
+
+}
+p{
+	font-size: 21px;
+	font-family: verdane;
+  color: #aaafb3;
+  margin-top: 100px;
+  text-align: center;
+}
+h2{
+	font-family: 'Sigmar One', cursive;
+}
+
+h3{
+  font-family: 'Sigmar One', cursive;
+}
+footer{
+	background-color:  #242729;
+	border-radius: 0px;
+  color: #aaafb3;
+}
+.col1{
+	-ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+  margin-left: 70px;
+  font-family: 'Sigmar One', cursive;
+  margin-top: 10px;
+
+}
+@media screen and (max-width:500px){
+	.col1{
+	-ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+  margin-left: 30px;
+  font-size: 14px;
+  font-family: 'Sigmar One', cursive;
+
+
+} 
+img[width="15%"]{
+
+  width: 10%;
+
+}
+
+.googlemap{
+  margin-left: 0px;
+  width: 100%;
+ 
+}
+.imazhi{
+	margin-left: 24px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+}
+
+
+ 
+
+.select{
+	background-color:   #242729;
+	color:#aaafb3;
+}
+.imazhi{
+	margin-left: 20px;
+}
+
+.myhr{
+	background-color: #aaafb3;
+  height: 0.2px;
+}
+#btn{
+	  display: inline-block;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+ background-color: rgba(0, 8, 67, 0.84);
+  border: 1px solid transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+#btn:hover{
+	color: green;
+}
+.background{
+
+
+}
+.footer_link{
+  color:  #aaafb3;
+}
+iframe{
+  width: 100%; 
+  height: 250px; 
+  margin: 5px;   
+  border-radius: 3px;
+}
+#iframe{
+  width: 100%;
+  height: 50
+}
+
+  #regform{
+
+    width: 100%;
+    margin-left: 0px;
+    padding: 20px;
+    margin-top: 20px;
+
+  }
+
+  input[class="form-control"]{
+    margin:0px;
+  }
