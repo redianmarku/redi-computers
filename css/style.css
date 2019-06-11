@@ -7,6 +7,9 @@ body{
 
  
  }
+ html{
+  scroll-behavior: smooth;
+ }
 .bg-light_redi{
 	background-color:#bdbdbd6b;
 }
