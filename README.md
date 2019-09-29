@@ -1,0 +1,2 @@
+# redianmarku.github.io
+Website jone Redi Computers eshte nje faqe e cila promovon dhe jep informacionet me te fundit rreth teknologjise dhe paisjeve te fundit me moderne te prodhuara nga kompani shume te famshe. Faqja mund te kete disa problematika dhe jo te gjitha funksionet jane te disponueshme sepse eshte akoma nen zhvillim. Shume shpjet Redi Computers do te behet nje "Online Shoping website". Per cdo problem qe del gjate perdorimit te kesaj faqje ju lutem na dergoni Feedback-un tuaj qe te na ndihmoje per rregullimin e problematikave. Faleminderit!
